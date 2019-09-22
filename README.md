@@ -1,2 +1,5 @@
 # birthday-reminder
-run when terminal opens and get reminded when your friends birthdays are
+Use 'node birthday-script.js' to run. 
+
+In iTerm2 add node ~/{path-to-script}/birthday-script.js to 'Send text at start' under iTerm2->preferences->profiles 
+
